@@ -9,7 +9,7 @@ Soy un apasionado del análisis de datos con base en **Guadalajara, Jalisco**. M
 ### 🛠 Mi Tech Stack
 
 **Lenguajes y Base de Datos**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Librerías de Análisis**
@@ -19,9 +19,8 @@ Soy un apasionado del análisis de datos con base en **Guadalajara, Jalisco**. M
 
 **Visualización y Herramientas**
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
 ---
 
 ### 🚀 Proyectos Destacados
