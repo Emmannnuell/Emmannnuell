@@ -2,7 +2,7 @@
 
 ### 📊 Data Analyst | Transformando datos en decisiones estratégicas
 
-Soy un apasionado del análisis de datos con base en **Guadalajara, Jalisco**. Mi enfoque es encontrar patrones donde otros ven ruido, utilizando herramientas estadísticas y de programación para resolver problemas complejos de negocio, desde la retención de clientes hasta la optimización operativa.
+Mi enfoque es encontrar patrones donde otros ven ruido, utilizando herramientas estadísticas y de programación para resolver problemas complejos de negocio, desde la retención de clientes hasta la optimización operativa.
 
 ---
 
