@@ -27,7 +27,6 @@ Soy un apasionado del análisis de datos con base en **Guadalajara, Jalisco**. M
 
 * **[Optimización de Operadores](link-a-tu-repo):** Segmentación de desempeño en call centers usando Python y Tableau.
 * **[Predicción de Churn](link-a-tu-repo):** Modelo de Machine Learning (Random Forest) para reducir el abandono de clientes en gimnasios.
-* **[Análisis de Experimento A/B](link-a-tu-repo):** Validación de hipótesis y análisis de embudo con corrección de Bonferroni.
 
 ---
 
