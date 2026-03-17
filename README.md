@@ -1,9 +1,7 @@
-# ¡Hola! Soy Emmanuel 👋
+# Hi, I'm Emmanuel! 👋 
+## Data Analyst focused on transforming data into strategic decisions
 
-### 📊 Data Analyst | Transformando datos en decisiones estratégicas
-
-Mi enfoque es encontrar patrones donde otros ven ruido, utilizando herramientas estadísticas y de programación para resolver problemas complejos de negocio, desde la retención de clientes hasta la optimización operativa.
-
+My focus is on identifying patterns where others see noise, leveraging statistical and programming tools to solve complex business challenges—ranging from customer retention to operational optimization.
 ---
 
 ### 🛠 Mi Tech Stack
