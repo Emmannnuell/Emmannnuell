@@ -19,10 +19,17 @@ I apply **statistical and programming tools** to analyze business questions, fro
 </p>
 ---
 
-### 🚀 Proyectos Destacados
+---
 
-* **[Optimización de Operadores](link-a-tu-repo):** Segmentación de desempeño en call centers usando Python y Tableau.
-* **[Predicción de Churn](link-a-tu-repo):** Modelo de Machine Learning (Random Forest) para reducir el abandono de clientes en gimnasios.
+### 🚀 Featured Projects
+
+#### [Gym Customer Churn Prediction](https://github.com/Emmannnuell/gym-membership-churn-analysis)
+Analyzed member activity to identify key churn drivers and developed a predictive model using **Random Forest and Logistic Regression**. This project demonstrates my ability to handle classification problems and provide data-driven insights for **proactive retention strategies**.
+
+#### [Call Center Efficiency Analysis](https://github.com/Emmannnuell/project_operadores_ineficaces)
+Processed operational data to identify underperforming segments and bottlenecks. I built an interactive **Tableau dashboard** to visualize operator efficiency, helping the team focus on specific areas for **operational improvement and productivity**.
+
+---
 
 ---
 
