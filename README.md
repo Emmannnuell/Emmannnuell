@@ -3,7 +3,7 @@
 
 I apply **statistical and programming tools** to analyze business questions, from understanding **customer behavior** to identifying opportunities for **operational improvement**.
 
----
+
 
 ### 🛠 My Tech Stack
 
@@ -19,7 +19,7 @@ I apply **statistical and programming tools** to analyze business questions, fro
 </p>
 ---
 
----
+
 
 ### 🚀 Featured Projects
 
