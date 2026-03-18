@@ -31,15 +31,18 @@ Processed operational data to identify underperforming segments and bottlenecks.
 
 ---
 
----
+### 🔭 Currently Working On
+* 🎯 Deepening my knowledge in **Predictive Machine Learning**.
+* 📈 Exploring advanced **Data Visualization** techniques.
 
-### 🌱 En qué estoy trabajando
-- 🔭 Actualmente profundizando en **Machine Learning Predictivo**.
----
-
-### 📫 ¿Cómo contactarme?
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuelromeroq/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emmanuel.romero.q@gmail.com)
+### 📫 Connect with me:
+<p align="left">
+  <a href="https://www.linkedin.com/in/emmanuelromeroq/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:emmanuel.romero.q@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 
 ---
