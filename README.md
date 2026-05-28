@@ -1,5 +1,5 @@
 ## Hi, I'm Emmanuel! 👋
-### Junior Data Analyst passionate about uncovering meaningful insights from raw data
+### Data Analyst passionate about uncovering meaningful insights from raw data
 
 I apply **statistical and programming tools** to analyze business questions, from understanding **customer behavior** to identifying opportunities for **operational improvement**.
 
