@@ -1,8 +1,11 @@
 # Hi, I'm Emmanuel! 👋
 
-### 📊 Business Intelligence & Data Analyst with a degree in International Business and professional experience across operations, commercial analysis, and international logistics.
+---
 
-I bridge the gap between technical data analytics and executive decision-making by combining robust technical skills (**Python, SQL, Tableau, Power BI**) with a deep understanding of core business metrics, supply chain optimization, and financial ROI.
+📊 **Business Intelligence & Data Analyst** with a degree in International Business and professional experience across operations, commercial analysis, and international logistics.
+
+I bridge the gap between technical data analytics and executive decision-making by combining robust technical skills (Python, SQL, Tableau, Power BI) with a deep understanding of core business metrics, supply chain optimization, and financial ROI.
+
 ---
 
 ### 🛠 My Tech Stack
