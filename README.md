@@ -1,8 +1,8 @@
 # Hi, I'm Emmanuel! 👋
 
-### 📊 Data Analyst 
-I am a Data Analyst dedicated to transforming raw data into actionable business insights. I leverage statistical analysis, programming, and data visualization to decode customer behavior and identify strategic opportunities for operational efficiency. 
+### 📊 Business Intelligence & Data Analyst with a degree in International Business and professional experience across operations, commercial analysis, and international logistics.
 
+I bridge the gap between technical data analytics and executive decision-making by combining robust technical skills (**Python, SQL, Tableau, Power BI**) with a deep understanding of core business metrics, supply chain optimization, and financial ROI.
 ---
 
 ### 🛠 My Tech Stack
