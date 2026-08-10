@@ -1,5 +1,4 @@
 # Hi, I'm Emmanuel! 👋
----
 
 📊 **Business Intelligence & Data Analyst** with a degree in International Business and professional experience across operations, commercial analysis, and international logistics.
 
